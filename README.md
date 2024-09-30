@@ -14,6 +14,6 @@ git clone https://github.com/digitalbankger/mobilon-chat.git
 
 cd mobilon-chat
 
-npm run dev
+npm run
 
 
