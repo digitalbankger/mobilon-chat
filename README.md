@@ -10,10 +10,14 @@
 
 ```bash
 git clone https://github.com/digitalbankger/mobilon-chat.git
+```
+### 2. Перейдите в директорию
 
-
+```bash
 cd mobilon-chat
-
+```
+### 3. Сборка приложения
+```bash
 npm run
-
+```
 
